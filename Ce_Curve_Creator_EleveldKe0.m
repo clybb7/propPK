@@ -1,4 +1,6 @@
-%% Use this scrip to generate effect site concentration curves for each treatment
+% Carter Lybbert, 2022 University of Utah. carterlybbert46@gmail.com
+
+%% Use this script to generate effect site concentration curves for each treatment
 clc;
 Participant_Demographics = [0, 0, 0, 0];
 participant_number = input('Enter the participant number using two digits: ');
