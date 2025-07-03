@@ -1,5 +1,6 @@
 % Create Vector for Total Drug Admin(t). Adapted from createInfusion.m by Jason Huang
 % This is a tool to help you transcribe the paper document tracking dosing during the procedure and convert it into an excel .csv file for further analysis
+% Written by Carter Lybbert, 2022. carterlybbert46@gmail.com 
 
 %% Select the correct save directory and load correct participant information
 clc; clear
