@@ -1,6 +1,6 @@
 # propPK
 
-This code contains a software package largely written by Carter Lybbert. It is an adaptation of the Eleveld PK/PD model and an evaluation of its accuracty. The results of this analysis are published here: 
+This code contains a software package largely written by Carter Lybbert and partially by Jason Huang, at University of Utah. It is an adaptation of the Eleveld PK/PD model and an evaluation of its accuracty. The results of this analysis are published here: 
 
 Lybbert C, Huang J, Jones KG, Mickey BJ, Tadler S, Odell D, Stanford J, Kuck K. Clinical validation of an adapted Eleveld Model for high-dose propofol treatments for depression. Journal of Clinical Monitoring and Computing. 2023 Oct;37(5):1369-1377. doi: 10.1007/s10877-023-00986-7. 
 
