@@ -1,3 +1,5 @@
+%Jason Huang, University of Utah. 2021.
+
 function [Cp, Ce, PK] = EleveldPKFun(Participant_Demographics, infusion_rate, ke0)
 %% ELEVELDPKFUN Convert Infusion to Concentration
 % Imported *Patient Demographics* = [sex (0 or 1 F/M), height (cm), age (yr), weight (kg)]
@@ -18,8 +20,7 @@ Height = Participant_Demographics(2);
 Age = Participant_Demographics(3); 
 Weight = Participant_Demographics(4);
 
-% PK Parameters obtained from Eleveld et al. These are just constants taken
-% directly from the paper. 
+% PK Parameters obtained from Eleveld et al. 
 O1 = 6.28; % V1ref (L)
 O2 = 25.5; % V2ref (L)
 O3 = 273;  % V3ref (L)
