@@ -1,3 +1,5 @@
+% Carter Lybbert Univeristy of Utah, 2022. carterlybbert46@gmail.com
+
 %% Script for the comparison of estimated second by second BSR with observed second by second BSR during high dose propofol treatments
 clear
 fitType = @(Hill, EC50, x) 100./(1+(EC50./x).^Hill); %This defines the equation used by the Fit function later, the Hill Equation used as our regression equation
